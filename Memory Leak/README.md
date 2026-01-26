@@ -66,7 +66,7 @@ When hitting:
 ### Sample logs
 
 
-``
+```
 Heap Used: 4.46 MB
 Heap Used: 7.14 MB
 Heap Used: 10.22 MB
@@ -112,4 +112,5 @@ Understanding this is critical for backend stability.
 ```bash
 node bad-cache.js
 node memory-leak.js
+
 ```
